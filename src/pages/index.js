@@ -8,15 +8,15 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Greg Richardson</title>
-        <meta name="description" content="Greg Richardson's portfolio" />
+        <title>John Smith</title>
+        <meta name="description" content="John Smith's portfolio" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta property="og:title" content="Greg Richardson" />
-        <meta property="og:description" content="Greg Richardson's portfolio" />
+        <meta property="og:title" content="John Smith" />
+        <meta property="og:description" content="John Smith's portfolio" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h1>Greg Richardson</h1>
+        <h1>John Smith</h1>
         <p>
           I love to developer software. Most experienced with React & Node.js.
         </p>
